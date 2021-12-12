@@ -1,5 +1,5 @@
 
-# Player-Performance-Prediction
+# Player Performance Prediction
 
 
 # Introduction
